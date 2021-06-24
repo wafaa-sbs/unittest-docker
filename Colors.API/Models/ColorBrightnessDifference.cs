@@ -4,6 +4,7 @@ using Colors.API.Services;
 
 namespace Colors.API.Models
 {
+//colorbrightness
     public class ColorBrightnessDifference
     {
         public Color Color1 { get; }
